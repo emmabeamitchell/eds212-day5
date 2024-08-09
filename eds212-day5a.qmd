@@ -9,6 +9,7 @@ editor_options:
 ---
 
 Hey Emma, this is Sam!
+hello :p
 
 ```{r}
 #| message: false
